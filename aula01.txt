@@ -37,5 +37,5 @@ Terceira etapa: Instalação de Software
 				#DESAFIO: WPS OFFICE (DEB)
 						  KDENLIVE (APPIMAGE)
 						  
-					
+					  
 					
