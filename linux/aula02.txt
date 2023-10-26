@@ -1,0 +1,34 @@
+Terminal: Bash / Shell Script
+$ = usuário comum;
+# = super usuário.
+sudo -i = se tornar root.
+===================================
+Comandos de manipulação de diretórios
+ls = Listar arquivos ou diretórios 
+    ls - lh Listar detalhes dos humanos
+    ls -a Mostra arquivos ou diretórios 
+    ls -lha
+cd = mudar de diretórios (ir para varios diretórios)
+cd / =
+cd - Voltar um diretório antes
+lib64 = Link simbólico
+libx32 = 
+tmp = perigo (marca texto verde)
+pwd = qual diretório você está
+cd ~ Volta para o diretório pessoal
+/ Raiz
+cd .. = Descer um nível (Segue uma arvore de diretórios)
+history = Mostra seu histórico
+! = Executar o comando da linha referência
+mkdir = Comando para criar diretórios
+    mkdir -v = Verboso (Cria diversos diretórios)
+    mkdir SENAC Tatuapé (Cria dois diretórios individuais, pois os diretórios estão separados)
+    mkdir ' ' = Cria diretório duplo
+    Ajuda de Comandos
+
+    --help
+    man (Manuais, São cinco Manuais)
+rm = Remover arquivos ou diretórios
+    -f = Forçar
+    -v = Verboso
+    -R = Recursivo (Destrói tudo)
